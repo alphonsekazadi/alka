@@ -1,0 +1,83 @@
+/* Ça le corps de ma page */
+body {
+   font-family: Impact, Georgia, Arial, Verdana, "Arial black";
+    background-color:  #eaeaff;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0px;   
+}
+
+/* Ici, c'est l'en-tête (Header). J'ai créée une balise Div à laquelle j'ai donné une classe aPropos. */
+.aPropos {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+   border-bottom: 3px solid orange;
+}
+/* Message de bienvenue */
+#Salut {
+    margin: 20px;
+    text-align: justify;
+}
+
+/* Couleur du fieldset */
+fieldset {
+    background-image: url('../Img/Bg2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Tout ce qui concerne l'image que j'ai inséré (Ma photo) */
+img {
+    width: 40%;
+    margin-right: 20px;
+    border: 4px solid blue;
+    border-radius: 40px;
+}
+
+/* C'est un div que j'ai créé pour pouvoir aligner les textes et l'image horizontalement. */
+.container {
+    display: flex;
+    align-items: center;
+    color: white;
+}
+/* Un espace où j'ai écrit la suite de ma présentation. */
+#Ban2 {
+    background-color: #eaeaff;
+    text-align: justify;
+    font-size: 20px;
+    padding: 50px;
+}
+#Ban2 a{
+    text-decoration: none;
+}
+
+ul {
+    background-color: blue;
+    border-radius: 20px;
+    list-style: none;
+    min-height: 400px;
+    padding: 20px;
+    font-size: 19px;
+}
+h3 {
+    color: #2873a1;
+}
+h3:hover{
+    color:white;
+}
+
+/*Autres
+.contenu {
+    height: 300%;
+    overflow-x: scroll;
+    white-space: nowrap;
+}
+.contenu img {
+    height: 300%;
+    display: inline-block;
+    margin-right: 20px;
+    width: 40%;
+}*/
