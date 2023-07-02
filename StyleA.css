@@ -24,7 +24,7 @@ body {
 
 /* Couleur du fieldset */
 fieldset {
-    background-image: url('../Img/Bg2.jpg');
+    background-image: url('Bg2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
