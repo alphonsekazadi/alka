@@ -18,13 +18,12 @@ body {
 }
 /* Message de bienvenue */
 #Salut {
-    margin: 20px;
-    text-align: justify;
+    margin: 10px;
 }
 
 /* Couleur du fieldset */
 fieldset {
-    background-image: url('Bg2.jpg');
+    background-image: url('../Img/Bg2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -46,9 +45,8 @@ img {
 /* Un espace où j'ai écrit la suite de ma présentation. */
 #Ban2 {
     background-color: #eaeaff;
-    text-align: justify;
     font-size: 20px;
-    padding: 50px;
+    padding: 10px;
 }
 #Ban2 a{
     text-decoration: none;
