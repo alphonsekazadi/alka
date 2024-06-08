@@ -41,10 +41,11 @@ header img{
 .intro{
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
-    padding: 0 15% 0 15%;
+    padding: 0 18% 0 18%;
 }
 .intro p{
-    font-size: 24px;
+    font-size: 22px;
+    text-align: center;
 }
 .pro1{
     display: grid;
