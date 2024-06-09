@@ -14,16 +14,12 @@ header{
     background-color: rgba(0,0,64,0.5);
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(100px,1fr));
-    padding: 0 15% 0 12%;
+    padding: 0 15% 0 10%;
     color: white;
     position: fixed;
     overflow: hidden;
     width: 100%;
     top: 0;
-}
-header img{
-    border-radius: 50%;
-    width: 10%;
 }
 .main{
     margin-top: 100px;
@@ -45,7 +41,7 @@ header img{
 }
 .intro p{
     font-size: 22px;
-    text-align: center;
+    text-align: justify;
 }
 .pro1{
     display: grid;
