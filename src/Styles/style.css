@@ -14,7 +14,7 @@ header{
     background-color: rgba(0,0,64,0.5);
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(100px,1fr));
-    padding: 0 15% 0 10%;
+    padding: 0 12% 0 10%;
     color: white;
     position: fixed;
     overflow: hidden;
@@ -37,7 +37,7 @@ header{
 .intro{
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
-    padding: 0 18% 0 18%;
+    padding: 0 15% 0 15%;
 }
 .intro p{
     font-size: 22px;
