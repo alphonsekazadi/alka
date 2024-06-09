@@ -17,7 +17,7 @@ header{
     background-color: rgba(0,0,64,0.5);
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(100px,1fr));
-    padding: 0 18% 0 10%;
+    padding: 0 18% 0 15%;
     color: white;
     position: fixed;
     overflow: hidden;
@@ -44,7 +44,7 @@ header{
 }
 .intro p{
     font-size: 22px;
-    text-align: justify;
+    text-align: left;
 }
 .pro1{
     display: grid;
