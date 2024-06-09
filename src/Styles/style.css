@@ -21,9 +21,11 @@ header{
     color: white;
     position: fixed;
     overflow: hidden;
-    font-size: 18px;
     width: 100%;
     top: 0;
+}
+header h3{
+    font-size: 14px;
 }
 .main{
     margin-top: 100px;
