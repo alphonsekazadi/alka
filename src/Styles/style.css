@@ -37,7 +37,7 @@ header{
 .intro{
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
-    padding: 0 15% 0 15%;
+    padding: 0 10% 0 10%;
 }
 .intro p{
     font-size: 22px;
