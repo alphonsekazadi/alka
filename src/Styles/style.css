@@ -52,7 +52,7 @@ header h3{
 .pro1{
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
-    padding: 0 18% 0 18%;
+    padding: 0 10% 0 10%;
 }
 .pro1 div{
     text-align: center;
