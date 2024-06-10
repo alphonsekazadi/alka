@@ -31,7 +31,7 @@ header h3{
     margin-top: 100px;
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
-    padding: 0 10% 0 18%;
+    padding: 0 18% 0 18%;
 }
 .main div img{
     width: 20%;
@@ -104,6 +104,9 @@ header h3{
     text-align: center;  
     background-color: rgba(0,0,64,0.5); 
     margin-top: 100px;
+}
+.foot:hover{ 
+    background-color: rgba(0,0,54,0.20);
 }
 .foot p{
     text-align: center;
