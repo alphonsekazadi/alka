@@ -107,5 +107,6 @@ header h3{
 }
 .foot p{
     text-align: center;
-    font-size: 22px;
+    font-size: 15px;
+    font-weight: bold;
 }
